@@ -1,0 +1,82 @@
+nav>ul{
+    display:flex;
+    list-style-type: none; 
+    padding-left: 0%;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(68, 68, 240);
+    font-size: 200%;
+    margin: 0%;
+    }
+    nav>ul>li {
+        padding-left: 7.5%;
+        padding-right: 7.5%;        
+    }
+
+    nav>ul>li:hover {
+        background-color: rgb(255, 255, 255);
+    }
+
+    nav>ul>li>a {
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+
+    }
+    #active {
+        background-color: rgb(214, 0, 0);
+    }
+    header>h1 {
+        background-image: url(Images/images.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: black;
+        font-family: cursive;
+        text-align: center;
+        margin: 0%;
+        
+    }
+    main>div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    main>div>img{
+        display: block;
+        margin: .25%;
+        outline: auto;
+        outline-style: solid;
+        border-radius: 5%;
+        
+    }
+   main>hr{
+    border-style: solid;
+   
+   }
+   main>h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 200%;
+    text-decoration: underline;
+    text-decoration-style: double;
+    
+   }
+   main>p{
+    text-align: center;
+    font-family: cursive;
+    font-size: 200%;
+   }
+   .img1{
+    width: 20%;
+   }
+   .img2{
+    width: 22%;
+   }
+   .img4{
+    width: 40%;
+   }
+   body{
+    background-color: antiquewhite;
+   }
+   .img5{
+    width: 50%;
+   }
