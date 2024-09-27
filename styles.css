@@ -80,3 +80,21 @@ nav>ul{
    .img5{
     width: 50%;
    }
+   .footer-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+   }
+   .footer-flex>div{
+    margin: 3%;
+   }
+   .p-footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+   }
+   footer{
+    background-color: black;
+   }
